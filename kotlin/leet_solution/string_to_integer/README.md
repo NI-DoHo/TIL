@@ -4,7 +4,7 @@ Ref : https://leetcode.com/problems/string-to-integer-atoi/
 
 ### BEST Solution
 - 다른 사람들의 풀이 중에 가장 맘에 드는 풀이를 가져왔다.
-https://leetcode.com/problems/string-to-integer-atoi/discuss/4654/My-simple-solution
+> https://leetcode.com/problems/string-to-integer-atoi/discuss/4654/My-simple-solution
 
 ### NOTE
 - 대체적으로 신경써야할 케이스 너무 많아 function 자체가 많이 헤비해진거 같아 아쉽다
